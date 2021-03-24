@@ -1,0 +1,25 @@
+_repo: Moonglade_64546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cunliffe-Owen, Marguerite
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '52949'
+    url: http://www.gutenberg.org/2009/agents/52949
+    wikipedia: https://en.wikipedia.org/wiki/Marguerite_Cunliffe-Owen
+description: ''
+gutenberg_issued: '2021-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: Moonglade
+url: http://www.gutenberg.org/ebooks/64546
